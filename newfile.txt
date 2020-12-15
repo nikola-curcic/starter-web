@@ -1,1 +1,2 @@
 Some more text to test
+SOME MORE LINES
